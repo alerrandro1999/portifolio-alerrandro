@@ -15,7 +15,7 @@
         <img src="@/assets/git.svg" alt="">
       </div>
       <div class="contato">
-        <a href="">&lt; contate-me /></a>
+        <a href="https://api.whatsapp.com/send?phone=+559499267-8728&amp;text=Olá tudo bem?" target="blank">&lt; contate-me /></a>
       </div>
     </section>
 </template>
