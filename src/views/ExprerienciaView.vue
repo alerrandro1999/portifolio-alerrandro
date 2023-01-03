@@ -48,5 +48,18 @@ p{
     display: flex;
     align-items: center;
   }
+
+  h1{
+  font-size: 40px;
+  }
+
+  h2{
+  font-size: 20px;
+  margin-bottom: 20px;
+  }
+
+  p{
+  font-size: 15px;
+  }
 }
 </style>
