@@ -26,7 +26,7 @@
 
 <style scoped>
 .container{
-  background-color: rgba(8, 8, 8, 0.5);
+  background-color: rgba(8, 8, 8, 0.8);
   color: #fff;
   padding: 25px;
 }

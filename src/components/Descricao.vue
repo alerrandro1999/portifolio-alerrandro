@@ -8,9 +8,10 @@ defineProps<{
   <div class="greetings">
     <h1 class="green">{{ msg }}</h1>
     <h3>
-      Desenvolvedor Back-End
-      <!-- <a href="https://vitejs.dev/" target="_blank" rel="noopener">Vite</a> +
-      <a href="https://vuejs.org/" target="_blank" rel="noopener">Vue 3</a>. What's next? -->
+      Desenvolvedor Back-End |
+      <a href="alerrandrokaton@gmail.com" target="_blank" rel="noopener">E-mail</a> |
+      <a href="https://github.com/alerrandro1999" target="_blank" rel="noopener">GitHub</a> |
+      <a href="https://api.whatsapp.com/send?phone=+559499267-8728&amp;text=Olá tudo bem?" target="_blank" rel="noopener">WhatsApp</a>
     </h3>
   </div>
 </template>
