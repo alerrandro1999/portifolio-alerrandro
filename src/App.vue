@@ -24,7 +24,7 @@ import HelloWorld from './components/Descricao.vue'
 
 <style scoped>
 header {
-  height: 100vh;
+  height: 60vh;
 }
 
 .logo {
@@ -57,6 +57,7 @@ nav a:first-of-type {
     display: flex;
     place-items: center;
     padding-right: calc(var(--section-gap) / 2);
+    height: 100vh;
   }
 
   .logo {
